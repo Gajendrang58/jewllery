@@ -9,7 +9,7 @@ const corsOptions = {
   methods: ['GET', 'POST'],
   credentials: true,
 };
-// Middleware
+// Middleware 
 app.use(cors());
 app.use(express.json());
 
