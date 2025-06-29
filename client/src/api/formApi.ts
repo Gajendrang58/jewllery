@@ -11,7 +11,7 @@ export interface FormSubmissionPayload {
 const baseUrl = import.meta.env.VITE_API_BASE_URL;
 export const submitForm = async (payload: FormSubmissionPayload) => {
   const response = await axios.post(
-    `${baseUrl}/forms`,
+    `${baseUrl}api/forms`,
     payload,
     {
       headers: {
