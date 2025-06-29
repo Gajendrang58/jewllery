@@ -6,13 +6,7 @@ const goldRateRoute = require('./routes/goldRateRoute');
 const app = express();
 
 // Middleware
-app.use(cors(
-  {
-    origin:["https://jeba-atthan-project.vercel.app"],
-    methods:["POST","GET"],
-    credentials:true
-  }
-));
+app.use(cors());
 app.use(express.json());
 
 // Routes

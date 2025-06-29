@@ -20,8 +20,10 @@ export type GoldRateData = {
     };
   };
 };
+const baseUrl = import.meta.env.VITE_API_BASE_URL;
+console.log(baseUrl)
 
 export const getGoldRate = async (): Promise<GoldRateData> => {
-  const response = await axios.get<GoldRateData>(`https://jeba-atthan-project.vercel.app/api/gold-rate`);
+  const response = await axios.get<GoldRateData>(`${baseUrl}/gold-rate`);
   return response.data;
 };

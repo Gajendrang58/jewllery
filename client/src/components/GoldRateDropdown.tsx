@@ -28,7 +28,7 @@ const handleReload = () => {
         aria-haspopup="true"
         aria-expanded="false"
       >
-        Gold Rate 22K (1gm) -₹{data.rates["22K"]["1_gram"]}{" "}
+        Gold Rate 22K (1gm) -₹{data?.rates?.["22K"]?.["1_gram"]??"N/A"}{" "}
         <ChevronDown className="text-white" />
       </button>
 
@@ -52,10 +52,10 @@ const handleReload = () => {
               Per Gram
             </div>
             <div className="text-gray-800 text-[13px] font-[500]">
-              ₹{data.rates["22K"]["1_gram"]}
+              ₹{data?.rates?.["22K"]?.["1_gram"]??"N/A"}
             </div>
             <div className="text-gray-800 text-[13px] font-[500]">
-              ₹{data.rates["24K"]["1_gram"]}
+              ₹{data?.rates?.["24K"]?.["1_gram"]??"N/A"}
             </div>
           </div>
         </div>

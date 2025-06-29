@@ -8,9 +8,10 @@ export interface FormSubmissionPayload {
   message?: string;
     date: string; // <-- Add this
 }
+const baseUrl = import.meta.env.VITE_API_BASE_URL;
 export const submitForm = async (payload: FormSubmissionPayload) => {
   const response = await axios.post(
-    `https://jeba-atthan-project.vercel.app/api/forms`,
+    `${baseUrl}/forms`,
     payload,
     {
       headers: {
