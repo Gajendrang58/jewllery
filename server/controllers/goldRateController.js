@@ -155,11 +155,11 @@ const getGoldRate = async (req, res) => {
     });
 
     // Wait for the gold rates table to load
-    await page.waitForSelector('.gold-rate', { timeout: 5000 });
+    await page.waitForSelector('.gold-rates', { timeout: 5000 });
 
     // Extract both 22K and 24K rates from the first row (latest date)
     const goldData = await page.evaluate(() => {
-      const row = document.querySelector('.gold-rate tbody tr');
+      const row = document.querySelector('.gold-rates tbody tr');
       if (!row) return null;
 
       const cells = row.querySelectorAll('td');
