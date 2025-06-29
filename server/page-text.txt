@@ -1,0 +1,876 @@
+
+        
+            
+            
+    
+.mobile-view-img{display: none;}
+
+  @media only screen and (max-width: 540px), (max-width: 1024px) {
+    
+.mobile-view-img{display: inline-block;}
+
+}
+
+
+
+
+    
+        
+            
+                
+                
+            
+        
+    
+    
+        
+            
+                
+                    
+                
+                
+                    
+                        
+                    
+                
+            
+        
+    
+    
+    
+        
+            
+                
+                    
+                         
+                        
+
+      
+                        
+
+                            
+
+                            
+
+                                ×
+                                 News
+                                 Sell your Gold
+                                 Market Watch
+                                 Weather
+                                 Price List
+                                 Explore Chennai 
+                                
+                                 Business Tips
+                                
+                                 Only For NRI's
+                                 Chennai Info
+                                 Jobs
+                                 Breaking News
+                                 Real Estate
+                                 Infinitheism
+                                
+                                 Contact Us
+                                 Join
+                                
+                            
+                        
+                    
+                
+            
+        
+    
+
+
+
+
+                
+                    
+                    
+                        
+                           Join, Earn, and Grow with LiveChennai.com! WhatsApp Us to Get Started!  |   Grow your Business with LiveChennai.com !    |  We Buy Your Old Gold Jewelry | Sell Gold at Todays Rate    |   Advertise with LiveChennai.com and Grow your Business...
+                            
+
+                        
+                    
+                    
+                
+            
+
+             
+function openNav() {
+    document.getElementById("navbarSupportedContent").style.display = "block";
+}
+
+function closeNav() {
+    document.getElementById("navbarSupportedContent").style.display = "none";
+}
+
+            
+            
+            
+                
+                    
+                         
+                            
+                                 
+                                    
+                                        Todays Gold Rate in Chennai (28/Jun/2025)
+                                    
+                                
+                                
+                                    
+
+
+
+     (adsbygoogle = window.adsbygoogle || []).push({});
+
+                                
+                                
+                                
+                                    
+                                        
+                                            
+
+
+
+     (adsbygoogle = window.adsbygoogle || []).push({});
+
+                                        
+                                    
+                                    
+                                        
+                                            Gold rate in Chennai : Live Chennai present to you today gold rate in Chennai . Here, we provide you Gold Rate in Chennai today (28/Jun/2025) the exact today prices of 916 kdm hallmark gold in 22 Carat as well as 24 carat gold rate Chennai. 
+                                            These rates are legitimate and up-to-the-minute. We have the rates in different forms including Rate per gram, Rate per 8 grams. Also, the difference in 916 kdm gold rate Chennai as compared to the previous day is clearly put up. Check today Gold rate in Chennai.
+                                        
+                                        Today Gold rate per gram in Chennai (INR)
+                                        
+                                            
+
+
+
+     (adsbygoogle = window.adsbygoogle || []).push({});
+
+                                        
+                                        
+                                        
+                                            
+                                        
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Date
+                                                                1 Gm (22 K)
+                                                                Silver 1 Gm
+                                                            
+                                                        
+                                                        
+                                                            
+                                                            
+                                                                28/Jun/2025
+                                                                
+                                                                           8,930 (-55 )
+                                                                    
+                                                                
+                                                                
+                                                                           119.00 (-1.00 )
+                                                                    
+                                                                
+                                                            
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                        
+                                        
+                                            
+                                                  Chennai Gold Rate
+                                            
+                                            
+                                                Last Update Time: 9:33:40 AM
+                                            
+                                        
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Date
+                                                                Pure Gold (24 k)
+                                                                Standard Gold (22 K)
+                                                            
+                                                            
+                                                                1 Gm
+                                                                8 Gm
+                                                                1 Gm
+                                                                8 Gm
+                                                            
+                                                        
+                                                        
+                                                            
+                                                            
+                                                              28/Jun/2025
+                                                               9,742
+                                                               77,936
+                                                               8,930
+                                                               71,440
+                                                            
+                                                            
+                                                            
+                                                              27/Jun/2025
+                                                               9,801
+                                                               78,408
+                                                               8,985
+                                                               71,880
+                                                            
+                                                            
+                                                            
+                                                              26/Jun/2025
+                                                               9,894
+                                                               79,152
+                                                               9,070
+                                                               72,560
+                                                            
+                                                            
+                                                            
+                                                              25/Jun/2025
+                                                               9,894
+                                                               79,152
+                                                               9,070
+                                                               72,560
+                                                            
+                                                            
+                                                            
+                                                              24/Jun/2025
+                                                               9,987
+                                                               79,896
+                                                               9,155
+                                                               73,240
+                                                            
+                                                            
+                                                            
+                                                              23/Jun/2025
+                                                               10,069
+                                                               80,552
+                                                               9,230
+                                                               73,840
+                                                            
+                                                            
+                                                            
+                                                              22/Jun/2025
+                                                               10,074
+                                                               80,592
+                                                               9,235
+                                                               73,880
+                                                            
+                                                            
+                                                            
+                                                              21/Jun/2025
+                                                               10,074
+                                                               80,592
+                                                               9,235
+                                                               73,880
+                                                            
+                                                            
+                                                            
+                                                              20/Jun/2025
+                                                               10,047
+                                                               80,376
+                                                               9,210
+                                                               73,680
+                                                            
+                                                            
+                                                            
+                                                              19/Jun/2025
+                                                               10,107
+                                                               80,856
+                                                               9,265
+                                                               74,120
+                                                            
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                        
+                                            
+                                        
+                                        
+                                            
+                                                
+                                                    
+                                                         Sell Your Gold 
+                                                    
+                                                
+                                                
+                                                    
+                                                        Diamond Rate in Chennai
+                                                        Gold Rate History in Chennai
+                                                    
+                                                    
+                                                        18k Gold Rate in Chennai
+                                                        Platinum Rate in Chennai
+                                                    
+                                                    
+                                                        False Ceiling Design Chennai
+                                                        Construction Materials Enquiry
+                                                    
+                                                
+                                            
+                                        
+                                        
+                                            
+
+
+
+     (adsbygoogle = window.adsbygoogle || []).push({});
+
+                                        
+                                        
+                                        
+                                        
+                                            
+                                                  Chennai Silver Rate
+                                            
+                                            
+                                                Last Update Time: 9:33:40 AM
+                                            
+                                        
+                                        
+                                            
+                                                
+                                                    
+                                                        
+                                                            
+                                                                Date
+                                                                Silver 1 Gm
+                                                                Ready Silver (1 Kg)
+                                                            
+                                                        
+                                                        
+                                                            
+                                                            
+                                                              28/Jun/2025
+                                                               119.00
+                                                               119,000.00
+                                                            
+                                                            
+                                                            
+                                                              27/Jun/2025
+                                                               120.00
+                                                               120,000.00
+                                                            
+                                                            
+                                                            
+                                                              26/Jun/2025
+                                                               120.00
+                                                               120,000.00
+                                                            
+                                                            
+                                                            
+                                                              25/Jun/2025
+                                                               119.00
+                                                               119,000.00
+                                                            
+                                                            
+                                                            
+                                                              24/Jun/2025
+                                                               120.00
+                                                               120,000.00
+                                                            
+                                                            
+                                                            
+                                                              23/Jun/2025
+                                                               120.00
+                                                               120,000.00
+                                                            
+                                                            
+                                                            
+                                                              22/Jun/2025
+                                                               120.00
+                                                               120,000.00
+                                                            
+                                                            
+                                                            
+                                                              21/Jun/2025
+                                                               120.00
+                                                               120,000.00
+                                                            
+                                                            
+                                                            
+                                                              20/Jun/2025
+                                                               120.00
+                                                               120,000.00
+                                                            
+                                                            
+                                                            
+                                                              19/Jun/2025
+                                                               122.00
+                                                               122,000.00
+                                                            
+                                                            
+                                                        
+                                                    
+                                                
+                                            
+                                        
+                                    
+                                
+                                
+                                    
+                                        
+                                             Monthly Graph of Gold Rate in Chennai - JUN 2025
+                                            
+                                                const month = ["JAN","FEB","MAR","APR","MAY","JUN","JUL","AUG","SEP","OCT","NOV","DEC"];
+                                                const d = new Date();
+                                                let name = month[d.getMonth()];
+                                                let year = d.getFullYear();
+                                                document.getElementById("goldMonthGraph").innerHTML = name+' '+year;
+                                            
+                                            
+                                        
+                                        						
+
+
+
+
+
+
+
+
+	
+	
+	
+	#chartdiv1 {
+	width	: 100%;
+	height	: 500px;
+}									
+	.amcharts-main-div .amcharts-chart-div svg {
+    overflow-y: scroll;
+}
+	
+
+	
+		
+
+	
+	var chart = AmCharts.makeChart("chartdiv1", {
+    "type": "serial",
+    "theme": "light",
+    "marginRight": 40,
+    "marginLeft": 40,
+    "autoMarginOffset": 20,
+    "dataDateFormat": "YYYY-MM-DD",
+    "valueAxes": [{
+        "id": "v1",
+        "axisAlpha": 0,
+        "position": "left",
+        "ignoreAxisWidth":true
+    }],
+    "balloon": {
+        "borderThickness": 1,
+        "shadowAlpha": 0
+    },
+    "graphs": [{
+        "id": "g1",
+       /* "balloon":{
+          "drop":true,
+          "adjustBorderColor":false,
+          "color":"#ffffff"
+        },*/
+        "bullet": "round",
+        "bulletBorderAlpha": 1,
+        "bulletColor": "#000000",
+        "bulletSize": 0,
+        "hideBulletsCount": 50,
+        "lineThickness": 2,
+        "title": "red line",
+        "useLineColorForBulletBorder": true,
+        "valueField": "value_1",
+        "balloonText": "<span style='font-size:15px;'>1k<br>[[value_1]]</span>"
+    }],
+    "chartScrollbar": {
+        "graph": "g1",
+        "oppositeAxis":false,
+        "offset":30,
+        "scrollbarHeight": 80,
+        "backgroundAlpha": 0,
+        "selectedBackgroundAlpha": 0.5,
+        "selectedBackgroundColor": "#F1C5ED",
+        "graphFillAlpha": 0,
+        "graphLineAlpha": 0.5,
+        "selectedGraphFillAlpha": 0,
+        "selectedGraphLineAlpha": 1,
+        "autoGridCount":true,
+        "color":"#AAAAAA"
+    },
+    "chartCursor": {
+        "pan": true,
+        "valueLineEnabled": true,
+        "valueLineBalloonEnabled": true,
+        "cursorAlpha":1,
+        "cursorColor":"#258cbb",
+        "limitToGraph":"g1",
+        "valueLineAlpha":0.2
+    },
+    "valueScrollbar":{
+      "oppositeAxis":false,
+      "offset":50,
+      "scrollbarHeight":10
+    },
+    "categoryField": "date",
+    "categoryAxis": {
+        "parseDates": true,
+        "dashLength": 1,
+        "minorGridEnabled": true
+    },
+    "export": {
+        "enabled": true
+    },
+    "dataProvider": [{"0":"8920.00","value_1":"8920.00","1":"2025-06-01","date":"2025-06-01"},{"0":"9060.00","value_1":"9060.00","1":"2025-06-02","date":"2025-06-02"},{"0":"9080.00","value_1":"9080.00","1":"2025-06-03","date":"2025-06-03"},{"0":"9090.00","value_1":"9090.00","1":"2025-06-04","date":"2025-06-04"},{"0":"9130.00","value_1":"9130.00","1":"2025-06-05","date":"2025-06-05"},{"0":"9130.00","value_1":"9130.00","1":"2025-06-06","date":"2025-06-06"},{"0":"8980.00","value_1":"8980.00","1":"2025-06-07","date":"2025-06-07"},{"0":"8980.00","value_1":"8980.00","1":"2025-06-08","date":"2025-06-08"},{"0":"8955.00","value_1":"8955.00","1":"2025-06-09","date":"2025-06-09"},{"0":"8945.00","value_1":"8945.00","1":"2025-06-10","date":"2025-06-10"},{"0":"9020.00","value_1":"9020.00","1":"2025-06-11","date":"2025-06-11"},{"0":"9100.00","value_1":"9100.00","1":"2025-06-12","date":"2025-06-12"},{"0":"9295.00","value_1":"9295.00","1":"2025-06-13","date":"2025-06-13"},{"0":"9320.00","value_1":"9320.00","1":"2025-06-14","date":"2025-06-14"},{"0":"9320.00","value_1":"9320.00","1":"2025-06-15","date":"2025-06-15"},{"0":"9305.00","value_1":"9305.00","1":"2025-06-16","date":"2025-06-16"},{"0":"9200.00","value_1":"9200.00","1":"2025-06-17","date":"2025-06-17"},{"0":"9250.00","value_1":"9250.00","1":"2025-06-18","date":"2025-06-18"},{"0":"9265.00","value_1":"9265.00","1":"2025-06-19","date":"2025-06-19"},{"0":"9210.00","value_1":"9210.00","1":"2025-06-20","date":"2025-06-20"},{"0":"9235.00","value_1":"9235.00","1":"2025-06-21","date":"2025-06-21"},{"0":"9235.00","value_1":"9235.00","1":"2025-06-22","date":"2025-06-22"},{"0":"9230.00","value_1":"9230.00","1":"2025-06-23","date":"2025-06-23"},{"0":"9155.00","value_1":"9155.00","1":"2025-06-24","date":"2025-06-24"},{"0":"9070.00","value_1":"9070.00","1":"2025-06-25","date":"2025-06-25"},{"0":"9070.00","value_1":"9070.00","1":"2025-06-26","date":"2025-06-26"},{"0":"8985.00","value_1":"8985.00","1":"2025-06-27","date":"2025-06-27"},{"0":"8930.00","value_1":"8930.00","1":"2025-06-28","date":"2025-06-28"}]
+});
+	
+			
+
+chart.addListener("rendered", zoomChart);
+
+zoomChart();
+
+function zoomChart() {
+    chart.zoomToIndexes(chart.dataProvider.length - 5000, chart.dataProvider.length - 0);
+}
+	
+	
+
+
+
+
+                                    
+                                
+                                
+                                    
+                                         Gold Rate in Chennai
+                                        There is no denying to the fact that gold is a much sought-after metal in Chennai. The yellow metal gets sold in different forms: gold coins, jewelries, bullion, etc. Often times, the idea of buying gold in Chennai is to signify one's status and wealth and to follow traditional system of investment.
+					In India, gold trade and Gold Rate in Chennai has a huge impact on the whole. Gold in Chennai is widely purchased not just for personal celebrations like wedding or birthday parties, but also for events like Akshaya Tritiya when there are a lots of discounts, slashed rates, exciting offers and more to entice the customers.
+					Coming on to the elements that determine the Today Gold rate in Chennai, there are many:
+                                        
+                                            State taxes
+                                            Local taxes
+                                            Transportation taxes
+                                            Additional costs incurred by jewelries in Chennai
+                                        
+                                        There are a lot of factors that impact gold purchase. This includes monsoon, harvest season, etc.
+                                        Gold investment in Chennai
+                                        There are a lot of people who love to buy gold in Chennai as a form of investment. Gold rate in Chennai has consistently been breaking the inflation for years, say experts. Hence, they suggest, customers should not get too much involved in buying gold in Chennai as short term.
+                                        Buying gold coins in Chennai
+                                        There are a lot of private gold sellers in Chennai and banks including SBI that sells gold coins in Chennai. This largely reduces the likeliness of fraudulence in gold purchase in Chennai. These coins are available in different sizes ranging from 2 to 50 grams. As far as buying gold coins is concerned, the purity of gold is assured, but there is no guarantee in buying back the coins though. This is one of the most important reasons for buyers to opt for gold jewelries than coins. Furthermore, buyers will have to pay out extra sum towards premium for buying gold coins from banks.
+                                    
+                                
+                                
+                                    
+                                        Gold jewelries: a complete guide to buying gold
+                                        Recently, there has been constant soar in the demand for gold in Chennai. Though it sounds weird at a time of pandemic as the COVID-19, this holds true as per data and reports. And that too in particular, people are eyeing on jewelries more than gold in its bullion form.
+                                        Do you know what bullions are? Bullions are unprocessed forms of gold or silver that are usually available as coins or bars.
+                                        And at this juncture, it becomes imperative for one to learn the gold rate in Chennai, because as aforementioned, you don't want gold in its purest 24 Karats form rather want it in 22 Karats. This obviously invites the need for checking gold rates in Chennai more often.
+
+                                        Choose between 22 Karats and 24 Karats
+                                        There is often a misconception that gold has to be purchased in its 24 Karat form only as it is the purest. Well, practically, it doesn't work that way as your gold jewelries can't depend solely on the yellow metal, but comes with a mix of other metals like copper in the 22 Karat form.
+
+                                         24 Karat gold?
+                                        To put it in simple words, this form of gold has all its 24 parts made of gold without the use or trace of any other metal. The purity of this form of gold is said to be 99.9 percent and hence gold bullions of 24 Karat are deep yellow in shade. 
+                                        This is notably the superior formof gold globally. Well, it is imperative to comprehend with this fact as there are bogus sales boasting of 25K or 26K gold as well. Gold in this form is of quite lesser density which makes it very soft and not suitable for making jewelry pieces. Rather, the 24 Karat gold is much preferred in the use of medical devices for the use of Gold Tympanostomy Tubes.
+
+                                        To note, Tympanostomy Tube is a medical device used on children that suffer ear infections.
+
+                                         22K gold?
+                                        Now that you understand the use of 24K gold, you obviously get the need for 22K gold which is of prime importance in crafting your eye-catching jewelries. These are golds carrying a mix of pure gold plus other metals. They carry almost 92 percent of pure gold with the rest being other metals including Zinc, Silver, Nickel, and other alloys.
+
+                                        Comparatively, this form of gold is harder than 24 Karat counterpart. 
+
+                                        An additional note on 18K gold
+                                        Unlike either of the above types of gold, in the 18K gold, the percentage of gold is just 75 percent whereas the rest is comprised of copper or silver. Considering its color, it looks a little dull and simple.
+
+                                        How to find the best gold rate in Chennai? Some simple tips:
+                                        Now that you have decided to buy gold jewelry for yourself for your loved ones, it is imperative for you to decide on the seller. The gold jeweler should be reputed and most trustworthy so that you don't get cheated in anyway. This is where branding and popularity comes to the first place. A gold jewelry brand that is much trusted by many people and well recognized through advertisements is sought after in the first place.
+                                        Alternatively, you may go ahead with individual sellers for the main reason being lesser price. In fact, you will have the option of customizing any jewelry design as you wish. In either of the scenarios, you basically need to be aware of Chennai gold rate so that you don't get cheated by any kind of increase in price or mismatch in tax percentage.
+                                        An extra tip - it is always suggested that you compare gold rate among jewelers before zeroing in on one. This is much stressed because exchange or reselling of gold is a huge deal!
+
+                                        How to ensure quality of gold?
+                                        There is no point is merely understanding how gold quality is measured. You need to go a step further to reassure the same with hallmarks on the jewelry you buy.
+
+                                        Plain Vs studded jewelry
+                                        A lot of enthusiastic investors are left skeptical whether to make their investments in gold or not. As the market is predominantly fluctuating, there arises the confusion of buying gold jewelry. And once you have decided to invest in gold jewelry, it is important that you decide to buy plain gold jewelry than to get studded ones. In other words, when you prefer to buy gold for investment purpose, it is ideal that you buy it in its plain form as you will not incur unnecessary loss in future when you plan to resell the jewelry.
+
+                                        Tips to buy gold at the best rate
+                                        There are a few ways that you can follow so that you can buy gold in its best rate. As the rates are constantly changing, and with COVID-19 being one of the reasons for the uncertainty in scenarios, it is inescapable for potential buyers to be aware of the gold rate and the market happenings.
+
+                                        First of all, you need to understand that the gold rate in Chennai is predominately decided based on changes in rates of US dollars, cost of import, interest rate fixed by banks, and a number of other criteria.
+
+                                        Furthermore, there is changes in Chennai gold rate with that of other cities. This difference is because of the changes in taxes, amount of gold purchased, gold association in the respective state, etc.
+
+                                        The next in the list is your awareness about gold rate in Chennai. If you want to buy gold in the best price without shelling out extra, you have to concentrate and keep an eye on the changing rates. There are a number of online portals and websites where you can check for Today gold rate, or gold rate in Chennai today, or gold rate today in Chennai. When you enter these texts in the search bar, you will end up with a number of results.
+
+                                        Look for the first few results that looks legitimate and authentic. There are several online portals that keep updating gold rates every single day. The website called livechennai.com is one of the best websites to check real-time gold rates.
+
+                                        Besides updating the rates of gold, they also tend to update the present day rates of silver and other metals, plus tat of vegetables, fruits and a myriad of other rate cards so that it provides end-to-end assistance for people living in Chennai city.
+
+                                        Have an eye on the changing rates of gold in Chennai city. As you find the gold rate hitting a massive low, you can plan for purchasing gold on the exact same day and save a lot on your purchase.
+                                        
+                                        This is your best way to save money and be smart in buying gold jewelry.
+
+                                        As you have now understood the nuances in buying gold jewelry including all its intricate details such as the purity of gold, the best way to buy gold, the ideal form of gold to buy when it is for investment purpose and the smart way to keep track of gold rate and buy whenever needed.
+                                        Disclaimer:These rates are exclusive of GST and making charges. Gold rates in Chennai indicated in this page makes no guarantee or warranty on the accuracy or completeness of the data provided on this site. Nothing contained herein is intended or shall be deemed to be investment advice, implied or otherwise. Always consult your registered adviser to assist you with your investments.
+                                        
+                                          ^Top 
+                                    
+                                
+                            
+                            
+                                
+                                   FAQs on Gold Rate  in Chennai 
+
+
+.faq_question{color: #000; font-size: 16px;}
+.faq_answer {color: #000; font-size: 16px;}
+
+
+
+
+
+
+    
+        1. What factors influence the gold rate in Chennai?
+        
+            The gold rate in Chennai is influenced by various factors including international market prices, currency exchange rates, local demand and supply dynamics, import duties, inflation, and geopolitical events.
+        
+    
+
+    
+        2. How often does the gold rate in Chennai change?
+        
+            The gold rate in Chennai can fluctuate multiple times a day depending on market conditions and global trends. It is advisable to check for updates regularly if you're planning to buy or sell gold.
+        
+    
+
+    
+        3. Where can I find the current gold rate in Chennai?
+        
+            You can find the current gold rate in Chennai through various sources such as financial news websites, dedicated gold rate websites, mobile apps, or by contacting local jewelers.
+        
+    
+
+    
+        4. Is the gold rate in Chennai different from other cities in India?
+        
+            Yes, the gold rate in Chennai may vary from other cities due to factors like local taxes, transportation costs, and demand-supply dynamics specific to the region.
+        
+    
+
+    
+        5. What is the difference between 24K, 22K, and 18K gold rates in Chennai?
+        
+            The difference lies in the purity of gold. 24K gold is the purest form, while 22K and 18K gold have a certain percentage of other metals mixed in. Typically, higher purity gold commands a higher rate.
+        
+    
+
+    
+        6. How does the gold rate in Chennai affect jewelry prices?
+        
+            The gold rate in Chennai directly impacts the price of jewelry. When the gold rate is high, the price of jewelry increases accordingly, and vice versa.
+        
+    
+
+    
+        7. Are there any specific times or seasons when the gold rate in Chennai is typically higher or lower?
+        
+            Traditionally, the gold rate in Chennai may see fluctuations during festive seasons, weddings, or during major economic events. However, it's essential to monitor market trends for accurate predictions.
+        
+    
+
+    
+        8. Can I negotiate the gold rate in Chennai with jewelers?
+        
+            While some jewelers may offer flexibility in pricing, the gold rate is primarily influenced by international markets. It's always a good idea to compare rates from multiple sources before making a purchase.
+        
+    
+
+    
+        9. How can I protect myself from fluctuations in the gold rate in Chennai?
+        
+            One way to mitigate risks associated with gold rate fluctuations is by investing in gold through various financial instruments like Gold ETFs (Exchange-Traded Funds) or Sovereign Gold Bonds, which are less susceptible to daily rate changes.
+        
+    
+
+    
+        10. Is it advisable to invest in gold during times of economic uncertainty?
+        
+            Gold is often considered a safe-haven asset during economic turmoil, as it tends to retain its value or even appreciate when other investments falter. However, it's essential to consult with a financial advisor to determine the suitability of gold investments for your portfolio.
+        
+    
+
+
+
+var acc = document.getElementsByClassName("faq_question");
+var i;
+
+for (i = 0; i < acc.length; i++) {
+  acc[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var faq_answer = this.nextElementSibling;
+    if (faq_answer.style.display === "block") {
+      faq_answer.style.display = "none";
+    } else {
+      faq_answer.style.display = "block";
+    }
+  });
+}
+ 
+                                
+                            
+                            
+                        
+                         
+                            
+                                  
+                            
+                            
+                                
+
+
+
+     (adsbygoogle = window.adsbygoogle || []).push({});
+
+                            
+                            
+                            
+                                Other Cities Rates
+                                
+                                     Gold Rate in Chennai
+                                    Gold Rate in Coimbatore
+                                     Gold Rate in Trichy
+                                     Gold Rate in Vellore
+                                     Gold Rate in Mumbai
+                                     Gold Rate in Delhi
+                                     Gold Rate in Kolkata
+                                     Gold Rate in Hyderabad
+                                     Gold Rate in Ahmedabad
+                                     Gold Rate in Trivandrum
+                                     Gold Rate in Bangalore
+                                     Gold Rate in Jaipur
+                                     Gold Rate in Pune
+                                     Gold Rate in Kochi
+                                     Platinum Rate Today
+                                
+                            
+                            
+                                
+
+
+
+     (adsbygoogle = window.adsbygoogle || []).push({});
+
+                            
+                            
+                                Silver Rates
+                                
+                                     Silver Rate in Chennai
+                                     Silver Rate in Coimbatore
+                                    Silver Rate in Trichy
+                                     Silver Rate in Delhi 
+                                     Silver Rate in Mumbai
+                                    Silver Rate in Kolkata
+                                    Silver Rate in Hyderabad
+                                     Silver Rate in Trivandrum
+                                    Silver Rate in Bangalore
+                                     Silver Rate in Jaipur
+                                    Silver Rate in Pune
+                                    Silver Rate in Ahmedabad
+                                    Silver Rate in Kochi
+                                
+                            
+                            
+                                Others
+                                
+                                     Petrol/Diesel Price
+                                    Commodity Price List
+                                    Latest News
+                                
+                            
+                        
+                    
+                    
+                        
+	
+.dif-width{
+	width: 100%;
+	float: left;
+}
+.dif-width * {
+    max-width: 100% !important;
+}
+.dif-width iframe { width: 100% !important; } 
+@media only screen and ( max-width: 640px) {
+.dif-width{
+	width: 100%;
+}	
+}
+
+
+
+
+
+
+(adsbygoogle = window.adsbygoogle || []).push({});
+
+
+ 
+                    
+                
+            
+            
+
+
+    
+        
+             
+                
+                
+        
+        
+            
+                
+                    
+
+
+
+    (adsbygoogle = window.adsbygoogle || []).push({});
+ 
+                
+            
+        
+    
+    
+        
+            
+                
+                    © 2025 LiveChennai.com - All rights reserved.
+                
+                
+                    This portal designed, developed and maintained by   JB Soft System
+                
+            
+        
+    
+
+
+
+        
+        
+    (function(){function c(){var b=a.contentDocument||a.contentWindow.document;if(b){var d=b.createElement('script');d.innerHTML="window.__CF$cv$params={r:'956f235f5d3a7869',t:'MTc1MTEzNDE5OC4wMDAwMDA='};var a=document.createElement('script');a.nonce='';a.src='/cdn-cgi/challenge-platform/scripts/jsd/main.js';document.getElementsByTagName('head')[0].appendChild(a);";b.getElementsByTagName('head')[0].appendChild(d)}}if(document.body){var a=document.createElement('iframe');a.height=1;a.width=1;a.style.position='absolute';a.style.top=0;a.style.left=0;a.style.border='none';a.style.visibility='hidden';document.body.appendChild(a);if('loading'!==document.readyState)c();else if(window.addEventListener)document.addEventListener('DOMContentLoaded',c);else{var e=document.onreadystatechange||function(){};document.onreadystatechange=function(b){e(b);'loading'!==document.readyState&&(document.onreadystatechange=e,c())}}}})();
+
