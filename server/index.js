@@ -4,9 +4,13 @@ const cors = require('cors');
 const formRoutes = require('./routes/formRoutes');
 const goldRateRoute = require('./routes/goldRateRoute');
 const app = express();
-
+const corsOptions = {
+  origin: ['https://jewllery-one.vercel.app'], // <-- Your frontend URL
+  methods: ['GET', 'POST'],
+  credentials: true,
+};
 // Middleware
-app.use(cors());
+app.use(cors(corsOptions));
 app.use(express.json());
 
 // Routes
